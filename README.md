@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# stonebird-algorithm
 stonebird算法小抄
 =======
 [stonebird-algorithm][#stonebird-algorithm]
@@ -31,4 +29,4 @@ https://github.com/CyC2018/CS-Notes
 https://labuladong.github.io/algo/4/
 
 https://leetcode.cn/
->>>>>>> README.md
+
