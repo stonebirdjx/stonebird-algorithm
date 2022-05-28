@@ -1,9 +1,3 @@
-stonebird算法小抄
-=======
-[stonebird-algorithm][#stonebird-algorithm]
-
-[power by][#power by ]
-
 # stonebird-algorithm
 
 stonebird算法小抄
